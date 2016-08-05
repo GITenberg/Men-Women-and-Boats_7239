@@ -1,0 +1,39 @@
+_repo: Men-Women-and-Boats_7239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+  editor:
+    agent_name: Starrett, Vincent
+    birthdate: 1886
+    deathdate: 1974
+    gutenberg_agent_id: '37727'
+    url: http://www.gutenberg.org/2009/agents/37727
+    wikipedia: http://en.wikipedia.org/wiki/Vincent_Starrett
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'Stephen Crane: An estimate -- The open boat -- The reluctant voyagers
+  -- The end of the battle -- The upturned face -- An episode of war -- An experiment
+  in misery -- The duel that was not fought -- A desertion -- A dark-brown dog --
+  The pace of youth -- Sullivan County sketches: A tent in agony. Four men in a cave.
+  The mesmeric mountain -- The snake -- London impressions -- The Scotch express.'
+title: Men, Women, and Boats
+url: http://www.gutenberg.org/ebooks/7239
